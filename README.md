@@ -1,5 +1,5 @@
 ### Hi there, I'm Hyun 👋
-- 🌱 I’m currently learning <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> and <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=ffffff">
 - 👯 I’m looking to collaborate with Designers and Other Developers!
 - 😄 Pronouns: She | Her
 - ⚡ Fun fact: I love to dance Argentine Tango:) I've travlled around the world for a year! 
