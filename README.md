@@ -3,6 +3,7 @@
 - 👯 I’m looking to collaborate with Designers and Other Developers!
 - 😄 Pronouns: She | Her
 - ⚡ Fun fact: I love to dance Argentine Tango:) I've travlled around the world for a year! 
+- ✨ 2021 Goals : 1 commit / 1 day
 
 ### Tech & Tools Preference
 
