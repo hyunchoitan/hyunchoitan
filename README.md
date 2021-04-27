@@ -2,7 +2,6 @@
 - 🌱 I’m currently learning <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> and <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=ffffff">
 - 👯 I’m looking to collaborate with designers and other developers!
 - ⚡ Fun fact: I am running F&B business:) I've travelled around the world for a year! 
-- ✨ 2021 Goals : 1 commit / 1 day
 
 ### Languages & Tools Preference
 
